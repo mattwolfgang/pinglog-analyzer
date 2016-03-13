@@ -1,27 +1,6 @@
-Sun Mar  6 11:33:47 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=416 ttl=42 time=50.0 ms
-Sun Mar  6 11:33:50 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=419 ttl=42 time=69.3 ms
+Fri Mar 11 14:58:35 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=64106 ttl=49 time=18.6 ms
+Fri Mar 11 15:01:15 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=64265 ttl=49 time=18.8 ms
 ----------
-Sun Mar  6 11:33:50 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=419 ttl=42 time=69.3 ms
-Sun Mar  6 11:33:52 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=421 ttl=42 time=61.3 ms
-----------
-Sun Mar  6 11:33:52 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=421 ttl=42 time=61.3 ms
-Sun Mar  6 11:34:04 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=433 ttl=42 time=52.9 ms
-----------
-Sun Mar  6 11:34:04 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=433 ttl=42 time=52.9 ms
-Sun Mar  6 11:36:09 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=557 ttl=42 time=43.3 ms
-----------
-Sun Mar  6 12:14:11 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=2836 ttl=42 time=42.4 ms
-Sun Mar  6 12:14:22 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=2847 ttl=42 time=168 ms
-----------
-Sun Mar  6 12:14:22 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=2847 ttl=42 time=168 ms
-Sun Mar  6 12:16:42 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=2986 ttl=42 time=43.6 ms
-----------
-Sun Mar  6 13:28:19 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=7277 ttl=42 time=43.0 ms
-Sun Mar  6 13:28:21 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=7279 ttl=42 time=116 ms
-----------
-Sun Mar  6 13:28:22 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=7280 ttl=42 time=52.9 ms
-Sun Mar  6 13:28:48 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=7306 ttl=42 time=43.2 ms
-----------
-Sun Mar  6 19:05:21 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=27471 ttl=42 time=43.5 ms
-Sun Mar  6 19:05:23 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=27473 ttl=42 time=43.4 ms
+Sat Mar 12 00:41:06 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=33472 ttl=49 time=19.0 ms
+Sat Mar 12 00:43:34 CST 2016: 64 bytes from 8.8.8.8: icmp_seq=33619 ttl=49 time=19.8 ms
 ----------

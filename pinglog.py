@@ -9,7 +9,8 @@ for pingLine in pinglog:
       firstHalf = pingLine.split("=",1)[1]
   if " ttl=" in pingLine:
       secondHalf = firstHalf.split(" ttl=",1)[0]
-  if xx !=None and int(secondHalf) <> int(xx) + 1:
+  if xx !=None and int(secondHalf) > int(xx) + 10:
+      #print (xx + "-" + secondHalf)
       print (oldLine + pingLine)
       results.write(oldLine + pingLine + "----------" + '\n')
   oldLine = pingLine
